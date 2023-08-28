@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Reactjs_demo/static/css/main.ffe34ec7.css",
+    "main.js": "/Reactjs_demo/static/js/main.872e7cf2.js",
+    "static/js/787.a86f3764.chunk.js": "/Reactjs_demo/static/js/787.a86f3764.chunk.js",
+    "static/media/erp.jpg": "/Reactjs_demo/static/media/erp.0aa10440e226fe6c4095.jpg",
+    "static/media/cloud-hosting.png": "/Reactjs_demo/static/media/cloud-hosting.7d70d9bbc5db8f56f53a.png",
+    "static/media/fin logo.jpg": "/Reactjs_demo/static/media/fin logo.c9ad396781c850fd0306.jpg",
+    "static/media/Clutch-logo-(002).jpg": "/Reactjs_demo/static/media/Clutch-logo-(002).efb416ef62bf4fbcecc1.jpg",
+    "static/media/cost.png": "/Reactjs_demo/static/media/cost.589a48621301c87f9bb2.png",
+    "static/media/fin.jpg": "/Reactjs_demo/static/media/fin.e8b09497621bc17aeb69.jpg",
+    "index.html": "/Reactjs_demo/index.html",
+    "main.ffe34ec7.css.map": "/Reactjs_demo/static/css/main.ffe34ec7.css.map",
+    "main.872e7cf2.js.map": "/Reactjs_demo/static/js/main.872e7cf2.js.map",
+    "787.a86f3764.chunk.js.map": "/Reactjs_demo/static/js/787.a86f3764.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ffe34ec7.css",
+    "static/js/main.872e7cf2.js"
+  ]
+}
