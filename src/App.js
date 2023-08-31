@@ -1,18 +1,24 @@
-import React from 'react';
-import Header from './components/Header';
-import Hero from './components/Hero';
-import Bottom from './components/Hero2';
-import './App.css';
-import Section from './components/Hero3';
+import React from "react";
+import Hero from "./components/Hero";
+import Bottom from "./components/Hero2";
+import "./App.css";
+import Header from "./components/Header";
 
-function App () {
+//import PeopleList from "./components/Hero3";
+// import Section from "./components/Hero3";
+// import { Container, Col } from "react-bootstrap";
+//import { Cards } from "./components/Cards";
+
+
+
+function App() {
   return (
     <div className="App">
-      <div><Header/></div>
-
-      <div className='col-sm-7 conatiner'><Hero/></div>
-  
-      <div><Bottom/></div>
+      
+      <Header/>
+      <Hero />
+      <Bottom />
+      
       
     </div>
   );

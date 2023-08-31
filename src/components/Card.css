@@ -1,0 +1,54 @@
+#Cards {
+    height: 100%;
+  }
+  html,
+  
+  
+   
+  body {
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 14px;
+  
+    
+  }
+  
+  .swiper {
+    width: 80%;
+    height: 80%;
+  }
+  
+  .swiper-slide {
+    font-size: 18px;
+    background: #fff;
+  
+    /* Center slide text vertically */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .swiper-slide img {
+    display: block;
+    align-items: center;
+    justify-content: center;
+    width: 50%;
+    height: 50%;
+    object-fit: cover;
+  }
+
+
+
+  .form{
+   
+    position: relative;
+  
+    
+    right: 20px;
+    left: 0px;
+  top: -180px;
+  z-index: 1;
+  }
+  
+  .bg-grad{
+    background: linear-gradient(to bottom right, #ddd1d1, #b0b0c0);
+  }

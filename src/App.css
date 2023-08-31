@@ -4,6 +4,15 @@
   box-sizing: border-box;
 }
 
+.gradient-textbody {
+  background-image: linear-gradient(to right, #62acfa, #65b479);
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+  border: none;
+}
+
+
 /*.App {
   text-align: center;
 }
