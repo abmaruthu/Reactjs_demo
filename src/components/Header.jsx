@@ -9,7 +9,7 @@ import Offcanvas from "react-bootstrap/Offcanvas";
 
 function Header() {
   return (
-    <>
+    <> 
       {["md"].map((expand) => (
         <Navbar key={expand} expand={expand} className="bg-body-tertiary mb-3">
           <Container fluid>

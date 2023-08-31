@@ -385,10 +385,7 @@ function Bottom(params) {
           </div>
           <div class="row d-grid p-0 m-0">
             <div class="col border-5 border-top border-black  d-lg-flex ">
-              .
-              <div class="col border-5 border-end  border-black">
-                .
-              </div>
+              .<div class="col border-5 border-end  border-black">.</div>
               <div class="col border-5 border-end border-black">.</div>
               <div class="col border-5 border-end  border-black">.</div>
               <div class="col border-5  ">.</div>
@@ -582,18 +579,18 @@ function Bottom(params) {
           <div class="row">
             <div class="col-12 col-md-6 pt-5">
               <p class="fs-5">
-                We're happy to address any questions you might have and <br /> help you
-                determine which of our services best fit your needs.
+                We're happy to address any questions you might have and <br />{" "}
+                help you determine which of our services best fit your needs.
               </p>
               <div className="mt-5">
-              <a
-                href="#"
-                class="fs-5 hover-black text-decoration-none text-dark fw-semibold"
-              >
-                Call us at: 1-800-356-8933
-              </a>
+                <a
+                  href="#"
+                  class="fs-5 hover-black text-decoration-none text-dark fw-semibold"
+                >
+                  Call us at: 1-800-356-8933
+                </a>
               </div>
-              <h4 class="pt-5 pb-3" >Your benefits:</h4>
+              <h4 class="pt-5 pb-3">Your benefits:</h4>
               <div class="row">
                 <div class="col-md-4  d-flex">
                   <div>
@@ -660,7 +657,7 @@ function Bottom(params) {
                   <div class="row mb-3">
                     <div class="form-group col-6 my-3">
                       <label for="firstName">First Name</label>
-                      
+
                       <input
                         type="text"
                         class="form-control"
